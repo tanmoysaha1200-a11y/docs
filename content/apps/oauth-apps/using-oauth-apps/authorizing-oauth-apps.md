@@ -18,7 +18,7 @@ When an {% data variables.product.prodname_oauth_app %} wants to identify you by
 
 {% ifversion fpt or ghec %}
 
-> [!TIP]
+> [!TIP] [!TOP]
 > You must [verify your email address](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/verifying-your-email-address) before you can authorize an {% data variables.product.prodname_oauth_app %}.
 
 {% endif %}
